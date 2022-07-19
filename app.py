@@ -9,8 +9,8 @@ import plotly.graph_objs as go
 
 myheading1='How to use callbacks'
 tabtitle = 'xkcd'
-list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
+list_of_options=['cat in a box!', 'box plot', 'correlation', 'git commit', 'scatterplot']
+list_of_images=['boxcat.jpg', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/plotly-dash-apps/203-radio-callbacks'
 
